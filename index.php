@@ -126,3 +126,15 @@
 							</div>
 						</div>
 					</div>
+
+					<footer>
+						<div class="container">
+							<div class="row">
+								<div class="col-md-12">
+									<p class="text-center">Copyright Text</p>
+								</div>
+							</div>
+						</div>
+					</footer>
+	</body>
+</html>
