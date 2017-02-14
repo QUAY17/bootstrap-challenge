@@ -20,6 +20,8 @@
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
+		<link rel="stylesheet" href="css/style.css" type="text/css">
+
 		<title>Bootstrap Challenge</title>
 	</head>
 	<body class="sfooter">
@@ -52,9 +54,28 @@
 			<main>
 				<div class="container">
 					<!-- row 1-->
-					<div class="row">
+					<div class="welcome">
 						<div class="col-md-6 col-md-offset-5">WELCOME MESSAGE</div>
 					</div>
 					</div>
 
-				<img src="..." alt="..." class="img-circle">
+				<br>
+				<br>
+				<br>
+				<br>
+
+				<div class="image1">
+					<div class="col-md-4">
+						<img src="http://s.hswstatic.com/gif/cassiopeia-constellation-st.jpg" class="img-rounded">
+							</div>
+						</div>
+
+				<div class="text1">
+					<div class="col-md-5">
+						con·stel·la·tion
+						ˌkänstəˈlāSH(ə)n/
+						noun
+						a group of stars forming a recognizable pattern that is traditionally named after its apparent form or identified with a mythological figure. Modern astronomers divide the sky into eighty-eight constellations with defined boundaries. a group or cluster of related things. "no two patients ever show exactly the same constellation of symptoms"
+					</div>
+				</div>
+			</div>
