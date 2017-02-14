@@ -2,11 +2,9 @@
 * Flexbox Sticky Footer
 * http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
 ***/
-html { display: flex;}
-html body {
-	background-color: #ffff00;
 
-}
+/*corrects IE min-height bug*/
+html { display: flex;}
 body { width: 100%;}
 
 .sfooter {
